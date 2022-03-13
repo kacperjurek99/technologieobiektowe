@@ -1,1 +1,1 @@
-# technologieobiektowe
+# Projekt technologie obiektowe
