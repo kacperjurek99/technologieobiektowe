@@ -1,10 +1,5 @@
-1. Kacper Jurek
-2. Graficzne narzędzie do tworzenia zapytań/Porównanie rozwiązań związanych z testowaniem
-3. JavaScript React Bootstrap
-4. Proste typy danych: string,number,bool,date/time/datetime/list
-   Porównanie operatorów: == != < >
-   operatory jednoargumentowe: is null is empty not null 
-   Możliwość porównania wartości dwóch różnych pól ( tego samego typu ) 
-   Obsługa zmiany kolejności (przeciągnij i upuść)
-5. Projekt wykonywany samodzielnie.
-6. Jeszcze nieznany/Aplikacja webowa do zarządzania biblioteką miejską/jeszcze nieznany.
+1. Kacper Jurek, Daniel Szwajkowski.
+2. Porównanie rozwiązań związanych z testowaniem
+3. Java/Mockito/Junit/Selenium/Cucumber
+4. Testy e2e Kacper Jurek, testy jednostkowe Daniel Szwajkowski.
+5. Sieciowa gra memory/Aplikacja webowa do zarządzania biblioteką miejską/jeszcze nieznany.
