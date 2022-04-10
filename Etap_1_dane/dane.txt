@@ -1,5 +1,5 @@
 1. Kacper Jurek, Daniel Szwajkowski.
 2. Porównanie rozwiązań związanych z testowaniem
-3. Kacper Jurek: Mockito/Testim lub Cypress/Cucumber   Daniel Szwajkowski: Junit/Selenium/TestNG
+3. Kacper Jurek: Mockito/Testim lub Cypress/Cucumber   Daniel Szwajkowski: Junit/JTest/TestNG
 4. Testy e2e Kacper Jurek, testy jednostkowe Daniel Szwajkowski.
 5. Sieciowa gra memory - Projekt Rozproszone/Aplikacja webowa do zarządzania biblioteką miejską - praca inzynierska Kacper Jurek/Sklep internetowy wspomagajacy zaklad krawiecki praca inzynierska Daniel Szwajkowski /jeszcze nieznany.
